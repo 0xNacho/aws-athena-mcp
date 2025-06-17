@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/0xnacho-aws-lakeformation-mcp-badge.png)](https://mseep.ai/app/0xnacho-aws-lakeformation-mcp)
+
 # aws-lakeformation-mcp
 
 ## Testing with mcp-inspector
